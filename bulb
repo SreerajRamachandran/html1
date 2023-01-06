@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+</head>
+<body>
+    <img id="myimage" src="https://st.depositphotos.com/1020618/2357/i/600/depositphotos_23575953-stock-photo-light-bulb.jpg" style="width:150px"><br>
+    <button onclick="document.getElementById('myimage').src='https://i.gifer.com/origin/8e/8e6287d5a11f771990e19b66a66492fb_w200.gif'">turnon</button>
+    <buttononclick="document.getElementById('myimage').src='https://st.depositphotos.com/1020618/2357/i/600/depositphotos_23575953-stock-photo-light-bulb.jpgturnoff'""></button>
+    
+</body>
+</html>

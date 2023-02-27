@@ -1,0 +1,19 @@
+<html>
+<head>
+<script>
+function bg1()
+{
+document.body.style.background="green";
+}
+function bg2()
+{
+document.body.style.background="red";
+}
+</script>
+</head>
+<body>
+<b>change the color</b>
+<button name="dblclick" ondblclick="return bg1()">blclick</button>
+<button name="dblclick" onclick="return bg2()">click</button>
+</body>
+</html>
